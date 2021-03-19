@@ -10,3 +10,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+- 🚀 I use daily:
+- 
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![Laravel](https://img.shields.io/badge/-laravel-8fcfd1?style=plastic&logo=laravel)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=didar115" alt="didar115" /> </p>
+
