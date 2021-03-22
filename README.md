@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on grameenphone
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: <a href="facebook.com/didaralam115">Facebook</a> <a href="https://www.instagram.com/didar.alam07/"></a>
+- 📫 How to reach me: <a href="facebook.com/didaralam115">Facebook</a> <a href="https://www.instagram.com/didar.alam07/">Instagram</a>
 - 😄 Pronouns:
 - ⚡ Fun fact: I loved to travel
 
