@@ -25,15 +25,18 @@
 </a>
 
 
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+#### I am web Developer
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: HTML / CSS / BOOTSTRAP / JS / REST-API / EXPRESS.JS / REACT / LARAVEL
 
 - 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning REACT 
+- 👯 I’m looking to collaborate on software Development 
+- 💬 Ask me about web development things 
+- 📫 How to reach me: facebook,gmail 
+- 😄 Pronouns: dider 
+- ⚡ Fun fact: love to Travel 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/didar115)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dider-alam-180688176//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/didaralam115/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/MzE9ROE07vGo6_0OD3i1Ow)  
@@ -51,5 +54,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/didar115)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=didar115)  
+
 
 
