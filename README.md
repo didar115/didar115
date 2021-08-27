@@ -24,7 +24,7 @@
 <a href="">
   <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didar115&layout=compact&theme=radical" alt="didar115"/>
 </a>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=didar115)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=didar115&theme=dark&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=didar115&theme=dark&show_icons=true)  
 
