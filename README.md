@@ -18,10 +18,7 @@
 ![Express](https://img.shields.io/badge/-express%20-007ACC?style=plastic&logo=express)
 ![JS](https://img.shields.io/badge/-JS%20-007ACC?style=plastic&logo=javascript)
 
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=didar115" alt="didar115" /> </p>
-
 
 [![didar115's github stats](https://github-readme-stats.vercel.app/api?username=didar115&theme=dark&show_icons=true)](https://github.com/didar115)
 <a href="">
@@ -29,7 +26,7 @@
 </a>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=didar115)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=didar115)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=didar115&theme=dark&show_icons=true)  
 
 
 
