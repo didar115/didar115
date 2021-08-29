@@ -1,5 +1,7 @@
 ## Hi there, I'm Dider-Alam  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
+<h1 align="center">Hi This is Dider-Alam</h1>
+<h3 align="center">A passionate MERN stack developer from Dhaka, Bangladesh!</h3>
 
 - 🔭 I’m currently working on income tax bd
 - 🌱 I’m currently learning laravel framework $ React
@@ -9,6 +11,8 @@
 - 📫 How to reach me: <a href="facebook.com/didaralam115" target="_blank">Facebook</a> <a href="https://www.instagram.com/didar.alam07/">Instagram</a>
 - 😄 Pronouns:dider
 - ⚡ Fun fact: I loved to travel
+
+<a href="https://linkedin.com/in/ajauntors" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ajauntors" height="30" width="40" /></a>
 
 - 🚀 I use daily:
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
