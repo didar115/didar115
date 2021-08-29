@@ -12,7 +12,11 @@
 - 😄 Pronouns:dider
 - ⚡ Fun fact: I loved to travel
 
-<a href="https://linkedin.com/in/ajauntors" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ajauntors" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dider-alam-180688176/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dider-alam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dider-alam-180688176/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dider-alam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dider-alam-180688176/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dider-alam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dider-alam-180688176/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="dider-alam" height="30" width="40" /></a>
+
 
 - 🚀 I use daily:
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
