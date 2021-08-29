@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi This is Dider-Alam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+<h1 align="center">Hi This is Didar-Alam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 </h1>
 <h3 align="center">A passionate MERN stack developer from Dhaka, Bangladesh!</h3>
 
@@ -15,12 +15,6 @@
 <a href="https://www.youtube.com/channel/UCMzE9ROE07vGo6_0OD3i1Ow" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="dider-alam" height="30" width="40" /></a>
 - 😄 Pronouns:dider
 - ⚡ Fun fact: I loved to travel
-
-
-
-
-
-
 - 🚀 I use daily:
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![Laravel](https://img.shields.io/badge/-laravel-8fcfd1?style=plastic&logo=laravel)
