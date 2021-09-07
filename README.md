@@ -35,7 +35,7 @@
 
 [![didar115's github stats](https://github-readme-stats.vercel.app/api?username=didar115&theme=dark&show_icons=true)](https://github.com/didar115)
 <a href="">
-  <img align="align-center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didar115&layout=compact&theme=radical" alt="didar115"/>
+  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didar115&layout=compact&theme=radical" alt="didar115"/>
 </a>
 
 
